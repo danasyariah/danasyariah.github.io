@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Struktur Tim
+description: Kenali tim dan peran paguyuban dalam mendukung penyelesaian masalah.
 image: assets/images/pic01.jpg
 nav-menu: true
 ---
