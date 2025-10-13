@@ -1,8 +1,8 @@
 ---
-title: Landing
-layout: landing
-description: 'Lorem ipsum dolor sit amet nullam consequa<br />sed veroeros. tempus adipiscing nulla.'
+title: Informasi Pendanaan
+description: Informasi pendanaan proyek yang pernah di buat oleh DanaSyariah.id
 image: assets/images/pic07.jpg
+redirect_to: https://dansyar-project.vercel.app
 nav-menu: true
 ---
 

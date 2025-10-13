@@ -1,6 +1,6 @@
 ---
 title: Laporan Pendanaan
-description: Bantu tim paguyuban melakukan rekapitulasi pendanaan sebagai dasar evaluasi pembiayaan proyek di danasyariah.id.
+description: Bantu tim paguyuban melakukan rekapitulasi pendanaan sebagai dasar evaluasi pembiayaan proyek di danasyariah.id
 image: assets/images/pic11.jpg
 redirect_to: https://forms.gle/X1XBRx6i9KyP1uvo6
 nav-menu: true
