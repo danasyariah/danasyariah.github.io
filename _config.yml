@@ -1,7 +1,7 @@
 # site settings
 title: IKATAN LENDER DSI
 subtitle: by TIM PAGUYUBAN
-email: youremailaddress@gmail.com
+email: paguyuban.lenderdsi@gmail.com
 description: Portal ini dikelola oleh Tim Paguyuban Lender DSI sebagai pusat informasi dan komunikasi yang menjembatani para lender dengan pihak PT Dana Syariah Indonesia (DSI). Melalui portal ini, Paguyuban berperan sebagai wadah kolaborasi dan koordinasi untuk menyampaikan informasi terkini, menampung aspirasi lender, serta memperkuat transparansi penyelesaian issue yang terjadi di danasyariah.id
 baseurl: "" # the subpath of your site, e.g. /blog
 url: # the base hostname & protocol for your site
@@ -11,7 +11,7 @@ city: Nashville
 state: TN
 zip_code: 55555
 country: United States of America
-phone: (716) 555-5555
+phone: 08118302446
 
 # homepage tiles
 tiles-source: pages # accepts "posts" or "pages"
