@@ -1,8 +1,9 @@
 ---
 layout: post
-title: Generic
-description: Lorem ipsum dolor est
+title: Rekapitulasi Pendanaan
+description: Rekapitulasi Pendanaan Lender danasyariah.id sebagai dasar kontribusi dan evaluasi tim paguyuban. Melalui menu ini, lender dapat berpartisipasi aktif dalam pemantauan, pelaporan, dan peningkatan transparansi pendanaan.
 image: assets/images/pic11.jpg
+redirect_to: https://forms.gle/X1XBRx6i9KyP1uvo6
 nav-menu: true
 ---
 
