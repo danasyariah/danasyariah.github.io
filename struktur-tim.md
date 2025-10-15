@@ -20,7 +20,32 @@ nav-menu: true
 <h2 id="content">Ketua: <a href="https://t.me/Achmad_Pitoyo" style="color: #FCD34D;">Achmad P</a></h2>
 <h3 id="content">Sekretaris: 
 	<ul>
+		<li><a href="#" style="color: #FCD34D;">Ahmad</a></li>
 		<li><a href="https://t.me/hyunjinnn19" style="color: #FCD34D;">Bayu</a></li>
+		<li><a href="https://t.me/capayam12" style="color: #FCD34D;">Ryan</a></li>
+	</ul>
+</h3>
+<h3 id="content">Tim Hukum & Legal: 
+	<ul>
+		<li><a href="https://t.me/fr474" style="color: #FCD34D;">Fajar A</a></li>
+		<li><a href="https://t.me/turbo_smblt" style="color: #FCD34D;">Ghifari K</a></li>
+		<li><a href="https://t.me/chintyaindp" style="color: #FCD34D;">Chintya</a></li>
+		<li><a href="#" style="color: #FCD34D;">Rida</a></li>
+	</ul>
+</h3>
+<h3 id="content">Tim Audit: 
+	<ul>
+		<li><a href="https://t.me/dot13211321" style="color: #FCD34D;">Raka</a></li>
+		<li><a href="https://t.me/klipmembaca" style="color: #FCD34D;">Andika</a></li>
+		<li><a href="https://t.me/arif721910" style="color: #FCD34D;">Arif</a></li>
+		<li><a href="https://t.me/rayhannn99" style="color: #FCD34D;">Rayhan</a></li>
+		<li><a href="https://t.me/Rotebaa" style="color: #FCD34D;">Arief</a></li>
+	</ul>
+</h3>
+<h3 id="content">Tim Komunikasi: 
+	<ul>
+		<li><a href="https://t.me/abnfa165" style="color: #FCD34D;">Junovi</a></li>
+		<li><a href="https://t.me/lzyye" style="color: #FCD34D;">Olive</a></li>
 	</ul>
 </h3>
 <h3 id="content">Koordinator Wilayah: 
@@ -28,6 +53,16 @@ nav-menu: true
 		<li>Depok: 
         	<ul>
 				<li><a href="https://t.me/imam_sp" style="color: #FCD34D;">Imam</a></li>
+			</ul>
+        </li>
+		<li>Bogor: 
+        	<ul>
+				<li><a href="https://t.me/imam_sp" style="color: #FCD34D;">Imam</a></li>
+			</ul>
+        </li>
+		<li>Sidoarjo: 
+        	<ul>
+				<li><a href="https://t.me/Davpram" style="color: #FCD34D;">Dody</a></li>
 			</ul>
         </li>
 	</ol>
