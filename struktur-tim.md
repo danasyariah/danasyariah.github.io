@@ -44,7 +44,7 @@ nav-menu: true
 </h3>
 <h3 id="content">Tim Komunikasi: 
 	<ul>
-		<li><a href="https://t.me/abnfa165" style="color: #FCD34D;">Junovi</a></li>
+		<li><a href="https://t.me/abnfa165" style="color: #FCD34D;">Juno</a></li>
 		<li><a href="https://t.me/lzyye" style="color: #FCD34D;">Olive</a></li>
 	</ul>
 </h3>
