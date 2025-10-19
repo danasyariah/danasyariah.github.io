@@ -49,6 +49,7 @@ nav-menu: true
 		<li><a href="https://t.me/abnfa165" style="color: #FCD34D;">Riyo</a></li>
 		<li><a href="https://t.me/lzyye" style="color: #FCD34D;">Olive</a></li>
 		<li><a href="https://t.me/Ism1y0n0" style="color: #FCD34D;">Bambang</a></li>
+		<li><a href="https://t.me/Bakhtiar237" style="color: #FCD34D;">Bakhtiar</a></li>
 	</ul>
 </h3>
 <h3 id="content">Koordinator Wilayah: 
