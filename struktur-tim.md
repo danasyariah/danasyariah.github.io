@@ -45,6 +45,7 @@ nav-menu: true
 <h3 id="content">Tim Media & Komunikasi: 
 	<ul>
 		<li><a href="https://t.me/abnfa165" style="color: #FCD34D;">Juno</a></li>
+		<li><a href="https://t.me/abnfa165" style="color: #FCD34D;">Riyo</a></li>
 		<li><a href="https://t.me/lzyye" style="color: #FCD34D;">Olive</a></li>
 		<li><a href="https://t.me/Ism1y0n0" style="color: #FCD34D;">Bambang</a></li>
 	</ul>
@@ -78,3 +79,5 @@ nav-menu: true
         </li>
 	</ol>
 </h3>
+
+<p>*** Untuk mempermudah komunikasi, Anda dapat menghubungi langsung via Telegram dengan men-tap nama yang tersedia pada daftar. Pastikan aplikasi Telegram sudah terpasang di perangkat Anda agar tautan dapat terbuka otomatis.</p>
