@@ -50,6 +50,11 @@ nav-menu: true
 </h3>
 <h3 id="content">Koordinator Wilayah: 
 	<ol>
+		<li>Tangerang: 
+        	<ul>
+				<li><a href="https://t.me/DwiO_01202587070205920" style="color: #FCD34D;">Dwi</a></li>
+			</ul>
+        </li>	
 		<li>Depok: 
         	<ul>
 				<li><a href="https://t.me/imam_sp" style="color: #FCD34D;">Imam</a></li>
@@ -63,6 +68,11 @@ nav-menu: true
 		<li>Sidoarjo: 
         	<ul>
 				<li><a href="https://t.me/Davpram" style="color: #FCD34D;">Dody</a></li>
+			</ul>
+        </li>
+		<li>Sulawesi: 
+        	<ul>
+				<li><a href="https://t.me/Edgar_Valtino" style="color: #FCD34D;">Fauzan</a></li>
 			</ul>
         </li>
 	</ol>
