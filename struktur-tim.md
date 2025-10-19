@@ -42,10 +42,11 @@ nav-menu: true
 		<li><a href="https://t.me/Rotebaa" style="color: #FCD34D;">Arief</a></li>
 	</ul>
 </h3>
-<h3 id="content">Tim Komunikasi: 
+<h3 id="content">Tim Media & Komunikasi: 
 	<ul>
 		<li><a href="https://t.me/abnfa165" style="color: #FCD34D;">Juno</a></li>
 		<li><a href="https://t.me/lzyye" style="color: #FCD34D;">Olive</a></li>
+		<li><a href="https://t.me/Ism1y0n0" style="color: #FCD34D;">Bambang</a></li>
 	</ul>
 </h3>
 <h3 id="content">Koordinator Wilayah: 
