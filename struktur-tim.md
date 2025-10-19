@@ -46,7 +46,7 @@ nav-menu: true
 <h3 id="content">Tim Media & Komunikasi: 
 	<ul>
 		<li><a href="https://t.me/abnfa165" style="color: #FCD34D;">Juno</a></li>
-		<li><a href="https://t.me/abnfa165" style="color: #FCD34D;">Riyo</a></li>
+		<li><a href="https://t.me/A_Riyo5" style="color: #FCD34D;">Riyo</a></li>
 		<li><a href="https://t.me/lzyye" style="color: #FCD34D;">Olive</a></li>
 		<li><a href="https://t.me/Ism1y0n0" style="color: #FCD34D;">Bambang</a></li>
 		<li><a href="https://t.me/Bakhtiar237" style="color: #FCD34D;">Bakhtiar</a></li>
