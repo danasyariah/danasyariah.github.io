@@ -56,12 +56,17 @@ nav-menu: true
 	<ol>
 		<li>Tangerang: 
         	<ul>
-				<li><a href="https://t.me/DwiO_01202587070205920" style="color: #FCD34D;">Dwi</a></li>
+				<li><a href="https://t.me/Dwi_2801" style="color: #FCD34D;">Dwi</a></li>
 			</ul>
         </li>	
 		<li>Depok: 
         	<ul>
 				<li><a href="https://t.me/imam_sp" style="color: #FCD34D;">Imam</a></li>
+			</ul>
+        </li>
+		<li>Sukabumi: 
+        	<ul>
+				<li><a href="https://t.me/AdRBLinc" style="color: #FCD34D;">Ahdia</a></li>
 			</ul>
         </li>
 		<li>Bogor: 
