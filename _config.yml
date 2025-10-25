@@ -1,6 +1,6 @@
 # site settings
-title: IKATAN LENDER DSI
-subtitle: by TIM PAGUYUBAN
+title: LENDER DANASYARIAH
+subtitle: by PAGUYUBAN
 email: paguyuban.lenderdsi@gmail.com
 description: Portal ini dikelola oleh Tim Paguyuban Lender DSI sebagai pusat informasi dan komunikasi yang menjembatani para lender dengan pihak PT Dana Syariah Indonesia (DSI). Melalui portal ini, Paguyuban berperan sebagai wadah kolaborasi dan koordinasi untuk menyampaikan informasi terkini, menampung aspirasi lender, serta memperkuat transparansi penyelesaian issue yang terjadi di danasyariah.id
 baseurl:
@@ -30,7 +30,7 @@ socials:
   Twitter: https://twitter.com/danasyariah_id
   Facebook:
   Slack:
-  Telegram: https://t.me/ikatanlenderdsi
+  Telegram: https://t.me/+bqCLOOZk9sJjYjVl
 
 # build settings
 markdown: kramdown
