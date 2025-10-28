@@ -22,6 +22,7 @@ nav-menu: true
 	<ul>
 		<li><a href="#" style="color: #FCD34D;">Ahmad</a></li>
 		<li><a href="https://t.me/hyunjinnn19" style="color: #FCD34D;">Bayu</a></li>
+		<li><a href="https://t.me/adlun109" style="color: #FCD34D;">Adlun</a></li>
 		<li><a href="https://t.me/capayam12" style="color: #FCD34D;">Ryan</a></li>
 	</ul>
 </h3>
