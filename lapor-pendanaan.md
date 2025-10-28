@@ -2,7 +2,7 @@
 title: Lapor Pendanaan
 description: Bantu tim Paguyuban dengan melaporkan pendanaan Anda sebagai dasar rekap dan evaluasi pembiayaan proyek di DanaSyariah.id
 image: assets/images/pic11.jpg
-redirect_to: https://forms.gle/X1XBRx6i9KyP1uvo6
+redirect_to: https://forms.gle/fNJ9g5a7HfLNnUMd8
 nav-menu: true
 ---
 
