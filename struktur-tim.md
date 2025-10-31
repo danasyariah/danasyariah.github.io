@@ -29,6 +29,7 @@ nav-menu: true
 <h3 id="content">Tim Hukum & Legal: 
 	<ul>
 		<li><a href="https://t.me/fr474" style="color: #FCD34D;">Fajar A</a></li>
+		<li><a href="#" style="color: #FCD34D;">Hidayat</a></li>
 		<li><a href="https://t.me/turbo_smblt" style="color: #FCD34D;">Ghifari K</a></li>
 		<li><a href="https://t.me/chintyaindp" style="color: #FCD34D;">Chintya</a></li>
 		<li><a href="#" style="color: #FCD34D;">Rida</a></li>
