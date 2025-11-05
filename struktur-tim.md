@@ -19,17 +19,17 @@ nav-menu: true
 <!-- Content -->
 <h2 id="content">Ketua: <a href="https://t.me/Achmad_Pitoyo" style="color: #FCD34D;">Achmad P <@Achmad_Pitoyo></a></h2>
 <h2 id="content">Wakil Ketua: <a href="https://t.me/adlun109" style="color: #FCD34D;">Adlun A.A. <@adlun109></a></h2>
-<h3 id="content">Pengawas: 
+<h2 id="content">Pengawas: 
 	<ul>
 		<li><a href="https://t.me/munir1968" style="color: #FCD34D;">M. Munir <@munir1968></a></li>
 		<li><a href="https://t.me/Ism1y0n0" style="color: #FCD34D;">Bambang <@Ism1y0n0></a></li>
 		<li><a href="https://t.me/bowieprasetyo" style="color: #FCD34D;">Bowie <@bowieprasetyo></a></li>
 	</ul>
-</h3>
-<h2 id="content">Bendahara: <a href="https://t.me/imam_sp" style="color: #FCD34D;">M. Imam <@imam_sp></a></h2>
+</h2>
+<h3 id="content">Bendahara: <a href="https://t.me/imam_sp" style="color: #FCD34D;">M. Imam <@imam_sp></a></h3>
 <h3 id="content">Sekretaris: 
 	<ul>
-	    <li><a href="#">Ketua: <span style="color: #FCD34D;">Tina W<@gunaco></span></a></li>
+	    <li><a href="#">Ketua: <span style="color: #FCD34D;">Tina W <@gunaco></span></a></li>
 		<li><a href="#" style="color: #FCD34D;">Ahmad <@ahmadzerooo></a></li>
 		<li><a href="https://t.me/hyunjinnn19" style="color: #FCD34D;">Bayu <@hyunjinnn19></a></li>
 		<li><a href="https://t.me/capayam12" style="color: #FCD34D;">Ryan <@capayam12></a></li>
@@ -37,7 +37,7 @@ nav-menu: true
 </h3>
 <h3 id="content">Bidang Hukum & Legal: 
 	<ul>
-		<li><a href="https://t.me/FR474">Ketua: <span style="color: #FCD34D;">Fajar A <@@FR474></span></a></li>
+		<li><a href="https://t.me/FR474">Ketua: <span style="color: #FCD34D;">Fajar A <@FR474></span></a></li>
 		<li><a href="#" style="color: #FCD34D;">Hidayat <-></a></li>
 		<li><a href="https://t.me/turbo_smblt" style="color: #FCD34D;">Ghifari K <@turbo_smblt></a></li>
 		<li><a href="https://t.me/chintyaindp" style="color: #FCD34D;">Chintya <@chintyaindp></a></li>
