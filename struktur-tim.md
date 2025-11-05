@@ -41,16 +41,16 @@ nav-menu: true
 		<li><a href="#" style="color: #FCD34D;">Hidayat <-></a></li>
 		<li><a href="https://t.me/turbo_smblt" style="color: #FCD34D;">Ghifari K <@turbo_smblt></a></li>
 		<li><a href="https://t.me/chintyaindp" style="color: #FCD34D;">Chintya <@chintyaindp></a></li>
-		<li><a href="#" style="color: #FCD34D;">Rida <-></a></li>
+		<li><a href="https://t.me/asilva" style="color: #FCD34D;">Rida <@asilva></a></li>
 	</ul>
 </h2>
-<h2 id="content">Tim Audit: 
+<h2 id="content">Bidang Audit: 
 	<ul>
-		<li><a href="https://t.me/dot13211321" style="color: #FCD34D;">Raka</a></li>
-		<li><a href="https://t.me/klipmembaca" style="color: #FCD34D;">Andika</a></li>
-		<li><a href="https://t.me/arif721910" style="color: #FCD34D;">Arif</a></li>
-		<li><a href="https://t.me/rayhannn99" style="color: #FCD34D;">Rayhan</a></li>
-		<li><a href="https://t.me/Rotebaa" style="color: #FCD34D;">Arief</a></li>
+		<li><a href="https://t.me/dot13211321" style="color: #FCD34D;">Raka <@dot13211321></a></li>
+		<li><a href="https://t.me/klipmembaca" style="color: #FCD34D;">Andika <@klipmembaca></a></li>
+		<li><a href="https://t.me/arif721910" style="color: #FCD34D;">Arif <@arif721910></a></li>
+		<li><a href="https://t.me/rayhannn99" style="color: #FCD34D;">Rayhan <@rayhannn99></a></li>
+		<li><a href="https://t.me/Rotebaa" style="color: #FCD34D;">Arief <@Rotebaa></a></li>
 	</ul>
 </h2>
 <h2 id="content">Bidang Media & Komunikasi: 
