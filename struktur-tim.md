@@ -26,16 +26,16 @@ nav-menu: true
 		<li><a href="https://t.me/bowieprasetyo" style="color: #FCD34D;">Bowie <@bowieprasetyo></a></li>
 	</ul>
 </h2>
-<h3 id="content">Bendahara: <a href="https://t.me/imam_sp" style="color: #FCD34D;">M. Imam <@imam_sp></a></h3>
-<h3 id="content">Sekretaris: 
+<h2 id="content">Bendahara: <a href="https://t.me/imam_sp" style="color: #FCD34D;">M. Imam <@imam_sp></a></h2>
+<h2 id="content">Sekretaris: 
 	<ul>
 	    <li><a href="#">Ketua: <span style="color: #FCD34D;">Tina W <@gunaco></span></a></li>
 		<li><a href="#" style="color: #FCD34D;">Ahmad <@ahmadzerooo></a></li>
 		<li><a href="https://t.me/hyunjinnn19" style="color: #FCD34D;">Bayu <@hyunjinnn19></a></li>
 		<li><a href="https://t.me/capayam12" style="color: #FCD34D;">Ryan <@capayam12></a></li>
 	</ul>
-</h3>
-<h3 id="content">Bidang Hukum & Legal: 
+</h2>
+<h2 id="content">Bidang Hukum & Legal: 
 	<ul>
 		<li><a href="https://t.me/FR474">Ketua: <span style="color: #FCD34D;">Fajar A <@FR474></span></a></li>
 		<li><a href="#" style="color: #FCD34D;">Hidayat <-></a></li>
@@ -43,8 +43,8 @@ nav-menu: true
 		<li><a href="https://t.me/chintyaindp" style="color: #FCD34D;">Chintya <@chintyaindp></a></li>
 		<li><a href="#" style="color: #FCD34D;">Rida <-></a></li>
 	</ul>
-</h3>
-<h3 id="content">Tim Audit: 
+</h2>
+<h2 id="content">Tim Audit: 
 	<ul>
 		<li><a href="https://t.me/dot13211321" style="color: #FCD34D;">Raka</a></li>
 		<li><a href="https://t.me/klipmembaca" style="color: #FCD34D;">Andika</a></li>
@@ -52,15 +52,15 @@ nav-menu: true
 		<li><a href="https://t.me/rayhannn99" style="color: #FCD34D;">Rayhan</a></li>
 		<li><a href="https://t.me/Rotebaa" style="color: #FCD34D;">Arief</a></li>
 	</ul>
-</h3>
-<h3 id="content">Bidang Media & Komunikasi: 
+</h2>
+<h2 id="content">Bidang Media & Komunikasi: 
 	<ul>
 		<li><a href="https://t.me/abnfa165">Ketua: <span style="color: #FCD34D;">Juno <@abnfa165></span></a></li>
 		<li><a href="https://t.me/A_Riyo5" style="color: #FCD34D;">Riyo <@A_Riyo5></a></li>
 		<li><a href="https://t.me/lzyye" style="color: #FCD34D;">Olive <@lzyye></a></li>
 		<li><a href="https://t.me/Bakhtiar237" style="color: #FCD34D;">Bakhtiar <@Bakhtiar237></a></li>
 	</ul>
-</h3>
+</h2>
 <!-- <h3 id="content">Koordinator Wilayah: 
 	<ol>
 		<li>Tangerang: 
