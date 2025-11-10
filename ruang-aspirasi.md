@@ -2,7 +2,7 @@
 title: Ruang Aspirasi
 description: Kami meminta semua teman anggota Paguyuban Lender DanaSyaria berpartisipasi secara aktif menuangkan gagasan untuk opsi penyelesaian masalah yang kita hadapi saat ini.
 image: assets/images/pic10.jpg
-redirect_to: https://docs.google.com/forms/d/e/1FAIpQLScSUELeblxej5Sx1n8aX5GUoZFfM97WoF1qwQmFM2TGHl6bQg/viewform
+redirect_to: https://forms.gle/7k4QGCtt5E9nag1G6
 nav-menu: true
 ---
 
