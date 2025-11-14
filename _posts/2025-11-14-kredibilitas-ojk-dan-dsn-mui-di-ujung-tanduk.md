@@ -2,6 +2,7 @@
 layout: post
 title: Kredibilitas OJK & DSN-MUI Di Ujung Tanduk, Ribuan Korban Desak Pertemuan 18 November 2025
 permalink: /berita/kredibilitas-ojk-dan-dsn-mui-di-ujung-tanduk/
+image: assets/images/kredibilitas-ojk-dan-dsn-mui-di-ujung-tanduk.jpg
 ---
 
 Jakarta, [14, November 2025] – Krisis gagal bayar yang menimpa platform fintech peer-to-peer lending syariah, PT Dana Syariah Indonesia (DSI), telah mencapai titik kritis. Kasus ini bukan lagi sekadar sengketa bisnis, melainkan tragedi kemanusiaan dan krisis kepercayaan terhadap sistem ekonomi syariah di Indonesia. Dengan total kerugian yang terverifikasi pertanggal 14 November 2025 mencapai Rp 815.208.277.107,- dari lebih  2.500 lender yang terdaftar dan terverifikasi, Paguyuban Lender DSI  mendesak DSI untuk menepati janji bertemu pada 18 November 2025, setelah janji pertemuan pada 11 November 2025 yang disepakati dihadapan Otoritas Jasa Keuangan (OJK) tidak ditepati DSI dengan alasan orang tua salah satu Kuasa Hukum meninggal dunia, alasan ini sebenarnya bukan alasan yang dapat diterima karena DSI memiliki Tim Kuasa Hukum bukan satu orang Kuasa Hukum, oleh karenanya sebagai upaya pemenuhan komitmen tanggung jawab sebelum kemarahan ribuan korban meledak, ppertemuan anatara Paguyuban sebagai perwakilan lender dengan DSI pada tanggal 18 November 2025 tidak bisa ditunda lagi.
