@@ -40,7 +40,6 @@ nav-menu: true
 		<li><a href="https://t.me/FR474">Ketua: <span style="color: #FCD34D;">Fajar A <@FR474></span></a></li>
 		<li><a href="#" style="color: #FCD34D;">Hidayat <-></a></li>
 		<li><a href="https://t.me/turbo_smblt" style="color: #FCD34D;">Ghifari K <@turbo_smblt></a></li>
-		<li><a href="https://t.me/chintyaindp" style="color: #FCD34D;">Chintya <@chintyaindp></a></li>
 		<li><a href="https://t.me/asilva" style="color: #FCD34D;">Rida <@asilva></a></li>
 	</ul>
 </h2>
