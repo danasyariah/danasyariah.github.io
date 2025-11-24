@@ -24,3 +24,5 @@ Kedua pihak menyepakati bahwa pengembalian dana lender ditargetkan selesai dalam
 Sebagai bagian dari komitmen transparansi, PT DSI bersedia melakukan koordinasi rutin dengan pengurus Paguyuban melalui pertemuan daring (Zoom Meeting). Pelaporan perkembangan pelaksanaan pengembalian dana akan dilakukan minimal sekali setiap minggu atau menyesuaikan kebutuhan.
 
 Kesepakatan ini diharapkan menjadi landasan kuat dalam proses permohonan kepada OJK serta menjadi langkah penting bagi penyelesaian kewajiban kepada para lender. PT Dana Syariah Indonesia dan Paguyuban Lender berkomitmen untuk menjalankan seluruh peran dan tanggung jawab masing-masing sesuai dengan kesepakatan bersama.
+
+#### [📄 Unduh Dokumen Kesepakatan](https://danasyariah.github.io/assets/documents/2025_11_18%206_25%20PM%20Office%20Lens_251118_182645.pdf)
