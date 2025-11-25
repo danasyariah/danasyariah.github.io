@@ -16,3 +16,5 @@ Undangan OJK yang ditujukan kepada Paguyuban Lender DanaSyariah pada tanggal 28 
 7. Paralel dengan kegiatan diatas dilakukan audit khusus oleh OJK mulai tanggal 13 Oktober 2025 s.d 31 Desember 2025.
 8. Pernyataan lisan bahwasannya pihak DanaSyariah bersedia untuk melibatkan Paguyuban sebagai perwakilan seluruh Lender ikut dalam proses recovery.
 9. Pihak DanaSyariah melalui Pak Taufik Aljufri, mengajukan jangka waktu 2 minggu kedepan  untuk menyiapkan proposal penyelesaian permasalahan  yang dialami para lender kepada Paguyuban.
+
+#### [📄 Siaran Pers OJK](https://danasyariah.github.io/assets/documents/SP_172_OJK_Fasilitasi_Pertemuan_Lender_dengan_Pengurus_PT_Dana_Syariah_Indonesia.pdf)
