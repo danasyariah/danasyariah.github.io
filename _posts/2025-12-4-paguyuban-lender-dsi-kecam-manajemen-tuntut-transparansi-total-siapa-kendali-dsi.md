@@ -18,14 +18,18 @@ Pertemuan itu kembali menegaskan:
 * dan rencana pemulihan tidak ada bentuknya.
 
 Semua ini bukan lagi sekadar tanda bahaya — tapi alarm kebakaran yang sudah meraung-raung.
+
 ---
+
 ### 1. Klaim Dana Rp 3,5 Miliar untuk 14.000 Lender: Tidak Masuk Akal & Tidak Dapat Diverifikasi
 DSI mengklaim hanya memiliki Rp 3,5 miliar dana pemulihan untuk dibagikan ke 14.000 lender. Tapi yang lebih mengejutkan — mereka sendiri tidak yakin dengan data lender mereka.
 
 Jadi, bukan hanya jumlah dananya yang kecil, tapi data penerimanya pun tidak jelas. Untuk perusahaan yang wajib rapi, diaudit, diawasi OJK dan sudah bersertifikasi ISO, fakta bahwa mereka tidak tahu data lender-nya sendiri adalah bentuk kelalaian fatal, bahkan bisa disebut malapraktik pengelolaan.
 
 Ini semua disampaikan langsung dalam pertemuan — bukan asumsi.
+
 ---
+
 ### 2. Dana 0,2% dari Total Kewajiban: Pukulan Bagi Lender yang Sudah Terluka
 Paguyuban menyoroti fakta bahwa nilai Rp 3,5 miliar tersebut hanya 0,2% dari total kewajiban DSI kepada lender. Angka ini bukan saja kecil — ini menghina akal sehat.
 
@@ -44,7 +48,9 @@ Tidak ada peningkatan kas.
 Tidak ada perkembangan berarti sejak Oktober.
 
 Hanya janji — tanpa eksekusi. Mereka korban janji manis, “Apapun Profesimu Produktifkan di Dana Syariah”
+
 ---
+
 ### 3.Direksi Tidak Mengetahui Cash-In & Perubahan Ekuitas: Pertanyaan Siapa Sebenarnya yang Mengurus Perusahaan?
 Bagian paling memprihatinkan — sekaligus paling mengejutkan — muncul saat Paguyuban mempertanyakan hal paling dasar:
 * Posisi cash-in perusahaan, dan
@@ -62,7 +68,9 @@ Kondisi ini memunculkan pertanyaan mendasar:
 4. Kepada siapa laporan keuangan DSI sebenarnya disampaikan?
 
 Ketidaktahuan semacam ini bukan sekadar kelemahan internal — ini indikasi ketidakteraturan struktural, bahkan potensi adanya pihak yang beroperasi di luar struktur resmi.
+
 ---
+
 ### 4. Janji Pencairan 8 Desember Tidak Selaras dengan Realitas Kas yang Hanya 0,2%
 DSI menjanjikan pencairan dana mulai 8 Desember 2025. Namun kembali lagi — dengan dana hanya 0,2% dari total kebutuhan setara Rp 3.500.000.000, bagaimana mungkin DSI bisa menjanjikan pemulihan 100% dalam waktu kurang dari setahun?
 
@@ -75,14 +83,18 @@ Dalam hampir dua bulan sejak Oktober:
 * Tidak ada rencana pemulihan yang konkret.
 
 Namun janji pencairan tetap diumbar. Ini membuat janji tersebut terdengar bukan seperti rencana, tetapi pengalihan isu sementara.
+
 ---
+
 ### 5. Temuan Over Appraisal: Penyimpangan yang Merugikan Lender
 DSI juga menjelaskan salah satu penyimpangan yang terjadi: over appraisal. Akibatnya:
 * nilai jaminan pada saat penjualan lebih rendah dari kewajiban,
 * sehingga tidak mampu menutupi nilai yang seharusnya dikembalikan kepada lender.
 
 Dengan kata lain, penilaian jaminan yang tidak realistis di masa lalu kini menjadi beban yang harus ditanggung lender.
+
 ---
+
 ### 6. Paguyuban Menuntut Penyaluran Dana Rp 3,5 Miliar Secara Proporsional & Transparan
 Paguyuban Lender DSI menegaskan tuntutan:
 * Seluruh dana Rp 3,5 miliar — berapapun angka realnya — harus segera disalurkan secara proporsional kepada lender dengan data yang valid.
@@ -91,7 +103,9 @@ Paguyuban Lender DSI menegaskan tuntutan:
 * Tidak ada manuver internal.
 
 Uang tersebut adalah hak lender, MILIK LENDER, bukan komoditas untuk diputarbalikkan oleh manajemen. KAMI ADALAH KORBAN DAN KAMI AKAN MEMPERTAHANKAN HAK-HAK KAMI.
+
 ---
+
 ### 7. Extra Balance Sheet Yang Belum Bisa Dibuka ke Publik
 DSI menyampaikan bahwa mereka memiliki extra balance sheet yang berisi:
 * aliran dana lender masuk,
@@ -99,7 +113,9 @@ DSI menyampaikan bahwa mereka memiliki extra balance sheet yang berisi:
 * rincian posisi borrower.
 
 Namun dokumen tersebut tidak dapat ditampilkan sekarang, karena dianggap sensitif dan harus menunggu izin OJK. DSI menjanjikan dokumen ini akan disampaikan setelah tanggal 10 Desember 2025, dengan catatan jika OJK mengizinkan.
+
 ---
+
 ### 8. Sumber Cash-In yang Diupayakan DSI Masih Bersifat ‘Rencana’, Bukan Realisasi
 DSI memaparkan empat sumber utama cash-in yang sedang mereka upayakan:
 1. Penagihan ke Borrower
@@ -111,7 +127,9 @@ Termasuk 3 unit kantor DSI di SCBD, di mana 1 unit sudah ditawarkan secara aktif
 4. Investor Asing & Lokal
 
 Masih tahap eksplorasi awal, tanpa nominal pasti, tanpa timeline jelas. Keseluruhan sumber ini masih sebatas rencana, tanpa realisasi signifikan.
+
 ---
+
 ### 9. Sikap Tegas Paguyuban: Tidak Mau Jadi Pengawas BPP & Siap Ambil Langkah Hukum
 Paguyuban, mewakili ribuan lender di seluruh Indonesia, menegaskan:
 * Menolak dilibatkan sebagai pengawas BPP (karena itu bukan tanggung jawab lender, melainkan manajemen perusahaan).
