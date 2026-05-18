@@ -30,7 +30,6 @@ nav-menu: true
 <h2 id="content">Sekretaris: 
 	<ul>
 	    <li><a href="#">Ketua: <span style="color: #FCD34D;">Tina W <@gunaco></span></a></li>
-		<li><a href="#" style="color: #FCD34D;">Ahmad <@ahmadzerooo></a></li>
 		<li><a href="https://t.me/hyunjinnn19" style="color: #FCD34D;">Bayu <@hyunjinnn19></a></li>
 		<li><a href="https://t.me/capayam12" style="color: #FCD34D;">Ryan <@capayam12></a></li>
 	</ul>
@@ -62,34 +61,12 @@ nav-menu: true
 </h2>
 <!-- <h3 id="content">Koordinator Wilayah: 
 	<ol>
-		<li>Tangerang: 
-        	<ul>
-				<li><a href="https://t.me/Dwi_2801" style="color: #FCD34D;">Dwi</a></li>
-			</ul>
-        </li>	
-		<li>Depok: 
-        	<ul>
-				<li><a href="https://t.me/imam_sp" style="color: #FCD34D;">Imam</a></li>
-			</ul>
-        </li>
+	
 		<li>Sukabumi: 
         	<ul>
 				<li><a href="https://t.me/AdRBLinc" style="color: #FCD34D;">Ahdia</a></li>
 			</ul>
-        </li>
-		<li>Bogor: 
-        	<ul>
-				<li><a href="https://t.me/imam_sp" style="color: #FCD34D;">Imam</a></li>
-			</ul>
-        </li>
-		<li>Sidoarjo: 
-        	<ul>
-				<li><a href="https://t.me/Davpram" style="color: #FCD34D;">Dody</a></li>
-			</ul>
-        </li>
-		<li>Sulawesi: 
-        	<ul>
-				<li><a href="https://t.me/Edgar_Valtino" style="color: #FCD34D;">Fauzan</a></li>
+   
 			</ul>
         </li>
 	</ol>
