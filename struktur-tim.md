@@ -56,8 +56,8 @@ nav-menu: true
 	<ul>
 		<li><a href="https://t.me/abnfa165">Ketua: <span style="color: #FCD34D;">Juno <@abnfa165></span></a></li>
 		<li><a href="https://t.me/A_Riyo5" style="color: #FCD34D;">Riyo <@A_Riyo5></a></li>
-		<li><a href="https://t.me/lzyye" style="color: #FCD34D;">Olive <@lzyye></a></li>
-		<li><a href="https://t.me/Bakhtiar237" style="color: #FCD34D;">Bakhtiar <@Bakhtiar237></a></li>
+		<li><a href="https://t.me/lzyye" style="color: #FCD34D;">Vivian <@lzyye></a></li>
+	
 	</ul>
 </h2>
 <!-- <h3 id="content">Koordinator Wilayah: 
