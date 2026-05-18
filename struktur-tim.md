@@ -58,7 +58,7 @@ nav-menu: true
 		<li><a href="https://t.me/A_Riyo5" style="color: #FCD34D;">Riyo <@A_Riyo5></a></li>
 		<li><a href="https://t.me/lzyye" style="color: #FCD34D;">Vivian <@lzyye></a></li>
 	
-	</ul>
+
 </h2>
 <!-- <h3 id="content">Koordinator Wilayah: 
 	<ol>
